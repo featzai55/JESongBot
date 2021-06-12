@@ -14,7 +14,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": "1824839215:AAEJyEIHK8H3oqIA6I89xuGTgN2ojJfkjy0"
+            "value": "1814336165:AAHEGEvWUxrGXFQoFypfoe2yoJjxHaV7zTw"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
